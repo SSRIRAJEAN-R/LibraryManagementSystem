@@ -15,8 +15,7 @@ This project creates a simple library database with three main tables: `Books`, 
 CREATE DATABASE LibraryDB;
 USE LibraryDB;
 
-
-Step 2: Create the Tables
-Books Table
+## Step 2: Create the Tables
+### Books Table
 
 This table stores information about the books in the library, including the title, author, and the number of available copies.
