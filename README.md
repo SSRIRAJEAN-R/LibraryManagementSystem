@@ -14,7 +14,7 @@ This project creates a simple library database with three main tables: `Books`, 
 ```sql
 CREATE DATABASE LibraryDB;
 USE LibraryDB;
-
+```
 ## Step 2: Create the Tables
 ### Books Table
 
